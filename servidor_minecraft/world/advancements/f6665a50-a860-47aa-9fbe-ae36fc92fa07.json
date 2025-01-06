@@ -18441,5 +18441,179 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/birch_logs_to_pressure_plates": {
+    "criteria": {
+      "has_log": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/birch_logs_to_doors": {
+    "criteria": {
+      "has_log": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/birch_log_1x": {
+    "criteria": {
+      "has_birch_log": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/birch_logs_to_boats": {
+    "criteria": {
+      "has_log": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/birch_logs_to_stairs": {
+    "criteria": {
+      "has_log": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/birch_logs_to_slabs": {
+    "criteria": {
+      "has_log": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "utilitarian:recipes/misc/utility/birch_logs_to_trapdoors": {
+    "criteria": {
+      "has_log": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_paper": {
+    "criteria": {
+      "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "exdeorum:recipes/misc/birch_compressed_sieve": {
+    "criteria": {
+      "has_item": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
