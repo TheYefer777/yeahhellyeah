@@ -7659,6 +7659,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-01-03 18:33:23 +0000",
+      "minecraft:skeleton": "2025-01-06 02:49:18 +0000",
       "minecraft:magma_cube": "2025-01-03 18:57:32 +0000",
       "minecraft:spider": "2025-01-02 17:12:27 +0000",
       "minecraft:creeper": "2025-01-03 02:02:53 +0000",
@@ -18019,6 +18020,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/white_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2025-01-06 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-01-06 02:49:18 +0000"
     },
     "done": true
   },
