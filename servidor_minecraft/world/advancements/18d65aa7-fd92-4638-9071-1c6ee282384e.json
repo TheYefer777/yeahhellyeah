@@ -17764,6 +17764,12 @@
     },
     "done": true
   },
+  "extrastorage:recipes/misc/part/storagepart_256k": {
+    "criteria": {
+      "has_previous_part": "2025-01-06 02:11:44 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/blue_crafting_monitor": {
     "criteria": {
       "refinedstorage:controller": "2025-01-06 01:36:46 +0000"
@@ -18226,6 +18232,12 @@
     },
     "done": true
   },
+  "extrastorage:recipes/misc/disk/shapeless/disk_256k": {
+    "criteria": {
+      "has_part": "2025-01-06 02:11:55 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/pink_network_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-01-06 01:36:46 +0000"
@@ -18553,6 +18565,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/orange_wireless_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2025-01-06 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "extrastorage:recipes/misc/part/storagepart_1024k": {
+    "criteria": {
+      "has_previous_part": "2025-01-06 02:11:55 +0000"
     },
     "done": true
   },
@@ -18922,6 +18940,12 @@
     },
     "done": true
   },
+  "extrastorage:recipes/misc/storage_block/block_256k": {
+    "criteria": {
+      "has_part": "2025-01-06 02:11:55 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/orange_crafter": {
     "criteria": {
       "refinedstorage:controller": "2025-01-06 01:36:46 +0000"
@@ -19123,6 +19147,12 @@
   "refinedstorage:recipes/misc/coloring_recipes/light_gray_detector": {
     "criteria": {
       "refinedstorage:controller": "2025-01-06 01:36:46 +0000"
+    },
+    "done": true
+  },
+  "extrastorage:recipes/misc/disk/shaped/disk_256k": {
+    "criteria": {
+      "has_part": "2025-01-06 02:11:55 +0000"
     },
     "done": true
   },
