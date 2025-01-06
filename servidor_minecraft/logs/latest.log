@@ -2052,3 +2052,7 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
   "+cL\\3b.cj$=TI8,0+/$(k#'g93=<5/p24.ip.gl.ply"
 ]
 [06Jan2025 22:45:40.111] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YeferJV is f6665a50-a860-47aa-9fbe-ae36fc92fa07
+[06Jan2025 22:45:51.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YeferJV[/127.57.61.135:40481] logged in with entity id 3216 at (4150.618970955517, 67.0, -18.773037745627455)
+[06Jan2025 22:45:52.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV joined the game
+[06Jan2025 22:45:52.263] [Server thread/INFO] [Jade/]: Syncing config to YeferJV (f6665a50-a860-47aa-9fbe-ae36fc92fa07)
+[06Jan2025 22:45:52.265] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (-2 unused), uncached profiles: 0, total profiles: 4
