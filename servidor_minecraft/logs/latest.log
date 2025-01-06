@@ -2460,3 +2460,5 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [06Jan2025 02:26:32.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Wireless]
 [06Jan2025 02:26:50.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Upgrading]
 [06Jan2025 02:30:27.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Connecting]
+[06Jan2025 02:33:56.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Storing externally]
+[06Jan2025 02:41:36.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,399.0055436384173,0.0
