@@ -1717,3 +1717,10 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 [06Jan2025 23:11:30.590] [Server thread/INFO] [Jade/]: Syncing config to YeferJV (f6665a50-a860-47aa-9fbe-ae36fc92fa07)
 [06Jan2025 23:11:30.602] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (-2 unused), uncached profiles: 0, total profiles: 4
 [06Jan2025 23:11:30.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6011ms or 120 ticks behind
+[06Jan2025 23:24:06.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YeferJV moved wrongly!
+[06Jan2025 23:24:34.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YeferJV moved too quickly! 0.0,396.63519468456724,0.0
+[06Jan2025 23:26:20.267] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Wycktreckz is 18d65aa7-fd92-4638-9071-1c6ee282384e
+[06Jan2025 23:26:32.003] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wycktreckz[/127.141.219.74:53431] logged in with entity id 2415 at (4114.102146319088, 67.0, -11.699999988079071)
+[06Jan2025 23:26:32.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz joined the game
+[06Jan2025 23:26:32.497] [Server thread/INFO] [Jade/]: Syncing config to Wycktreckz (18d65aa7-fd92-4638-9071-1c6ee282384e)
+[06Jan2025 23:26:32.504] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 2 (-2 unused), uncached profiles: 0, total profiles: 4
