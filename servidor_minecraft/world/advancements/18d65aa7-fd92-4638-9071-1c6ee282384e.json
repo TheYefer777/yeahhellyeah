@@ -17860,6 +17860,12 @@
     },
     "done": true
   },
+  "refinedstorage:drives": {
+    "criteria": {
+      "disk_drive_in_inventory": "2025-01-06 01:37:58 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring_recipes/black_controller": {
     "criteria": {
       "refinedstorage:controller": "2025-01-06 01:36:46 +0000"
