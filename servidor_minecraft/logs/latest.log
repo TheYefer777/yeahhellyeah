@@ -2467,3 +2467,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [06Jan2025 02:59:15.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,397.73944160634125,0.0
 [06Jan2025 02:59:36.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,397.63374043715135,0.0
 [06Jan2025 02:59:41.915] [Server thread/INFO] [tombstone/]: The player Wycktreckz has successfully been saved
+[06Jan2025 03:07:00.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Local Librarian]
+[06Jan2025 03:12:23.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz lost connection: Disconnected
+[06Jan2025 03:12:23.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz left the game
