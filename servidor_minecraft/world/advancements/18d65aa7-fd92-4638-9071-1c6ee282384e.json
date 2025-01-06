@@ -19649,15 +19649,21 @@
     },
     "done": true
   },
-  "forcecraft:recipes/misc/magnet_glove": {
-    "criteria": {
-      "has_compass": "2025-01-06 22:55:09 +0000"
-    },
-    "done": true
-  },
   "forcecraft:recipes/transmutation/transmutation/string_from_bow": {
     "criteria": {
       "has_bow": "2025-01-06 22:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-06 22:29:25 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/magnet_glove": {
+    "criteria": {
+      "has_compass": "2025-01-06 22:55:09 +0000"
     },
     "done": true
   },
@@ -19670,12 +19676,6 @@
   "structurecompass:recipes/tools/structure_compass": {
     "criteria": {
       "has_compass": "2025-01-06 22:55:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-01-06 22:29:25 +0000"
     },
     "done": true
   },
