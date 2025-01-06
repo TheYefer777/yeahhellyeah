@@ -2071,3 +2071,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [
   "!8m%W\\|/h/<j,32f+@=8"
 ]
+[06Jan2025 01:36:46.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Refined Storage]
+[06Jan2025 01:36:53.139] [Server thread/WARN] [mixin/]: @Final field items:Ljava/util/Map; in creativewirelesstransmitter.mixins.json:MixinNetworkItemManager should be final
+[06Jan2025 01:37:58.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Drives]
