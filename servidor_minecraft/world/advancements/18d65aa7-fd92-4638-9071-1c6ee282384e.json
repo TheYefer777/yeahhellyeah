@@ -19649,5 +19649,17 @@
     },
     "done": true
   },
+  "forcecraft:recipes/transmutation/transmutation/string_from_bow": {
+    "criteria": {
+      "has_bow": "2025-01-06 22:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-06 22:29:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
