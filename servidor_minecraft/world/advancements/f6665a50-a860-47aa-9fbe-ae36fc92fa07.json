@@ -10328,6 +10328,7 @@
       "minecraft:zombified_piglin": "2025-01-04 00:24:30 +0000",
       "minecraft:wither_skeleton": "2025-01-02 20:31:21 +0000",
       "minecraft:piglin": "2025-01-03 19:01:50 +0000",
+      "minecraft:enderman": "2025-01-07 00:51:59 +0000",
       "minecraft:zombie": "2025-01-02 17:12:00 +0000",
       "minecraft:zombie_villager": "2025-01-02 19:08:36 +0000"
     },
@@ -18453,6 +18454,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/alkahestry_altar": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/birch_logs_to_pressure_plates": {
     "criteria": {
       "has_log": "2025-01-06 23:44:55 +0000"
@@ -18462,6 +18469,18 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/crimson_cloth": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_tin_from_block": {
+    "criteria": {
+      "has_item": "2025-01-07 00:52:16 +0000"
     },
     "done": true
   },
@@ -18495,6 +18514,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/ender_pearl": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/birch_logs_to_doors": {
     "criteria": {
       "has_log": "2025-01-06 23:44:55 +0000"
@@ -18504,6 +18529,12 @@
   "mcwroofs:recipes/birch": {
     "criteria": {
       "has_planks": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/fortune_coin": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
     },
     "done": true
   },
@@ -18519,9 +18550,21 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/mob_charm_fragments/enderman": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
   "create:contraption_actors": {
     "criteria": {
       "0": "2025-01-07 00:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-07 00:51:11 +0000"
     },
     "done": true
   },
@@ -18531,9 +18574,39 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/wraith_node": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
   "create:portable_storage_interface": {
     "criteria": {
       "0": "2025-01-07 00:26:10 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/angelic_feather": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/tin_dust_from_raw": {
+    "criteria": {
+      "has_raw_tin": "2025-01-07 00:52:04 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/ender_staff": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/tin_dust_from_raw_block": {
+    "criteria": {
+      "has_raw_tin_block": "2025-01-07 00:52:16 +0000"
     },
     "done": true
   },
@@ -18543,9 +18616,33 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/void_tear": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_tin_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/tin]": "2025-01-07 00:52:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-01-07 00:52:04 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-07 00:51:11 +0000"
     },
     "done": true
   },
@@ -18558,6 +18655,12 @@
   "utilitarian:recipes/misc/utility/birch_logs_to_stairs": {
     "criteria": {
       "has_log": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2025-01-07 00:51:11 +0000"
     },
     "done": true
   },
@@ -18609,6 +18712,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/magicbane": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/birch_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-06 23:44:55 +0000"
@@ -18618,6 +18727,12 @@
   "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-01-07 00:52:04 +0000"
     },
     "done": true
   },

@@ -28,3 +28,14 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[07Jan2025 00:51:11.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [The End?]
+[07Jan2025 00:51:13.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2768ms or 55 ticks behind
+[07Jan2025 00:51:13.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [The End?]
+[07Jan2025 00:51:15.532] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[07Jan2025 00:51:15.582] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[07Jan2025 00:54:49.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz was doomed to fall by Ender Dragon
+[07Jan2025 00:54:50.017] [Server thread/INFO] [tombstone/]: The player Wycktreckz has successfully been saved
+[07Jan2025 00:55:19.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has made the advancement [Free the End]
+[07Jan2025 00:56:21.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has reached the goal [The Next Generation]
+[07Jan2025 00:56:42.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [The Most Useful Key]
+[07Jan2025 00:56:47.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has reached the goal [A Fast Comeback]
