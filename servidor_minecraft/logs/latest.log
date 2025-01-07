@@ -572,3 +572,7 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [07Jan2025 01:13:37.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV has reached the goal [A little cleaning is necessary]
 [07Jan2025 01:14:52.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Mutual Aid]
 [07Jan2025 01:14:52.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has reached the goal [I see clearly now]
+[07Jan2025 01:19:55.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YeferJV lost connection: Disconnected
+[07Jan2025 01:19:55.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YeferJV left the game
+[07Jan2025 01:20:57.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wycktreckz has made the advancement [Your First Receptacle]
+[07Jan2025 01:21:56.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved wrongly!

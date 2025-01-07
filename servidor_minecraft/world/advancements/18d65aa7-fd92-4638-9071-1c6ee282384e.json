@@ -20029,6 +20029,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-07 01:14:52 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/dead_canvas_expansion_box": {
     "criteria": {
       "has_box": "2025-01-07 00:10:12 +0000"
@@ -20056,6 +20062,12 @@
   "productivebees:recipes/misc/stonecutter/yucca_canvas_expansion_box": {
     "criteria": {
       "has_box": "2025-01-07 00:10:12 +0000"
+    },
+    "done": true
+  },
+  "rsinfinitybooster:recipes/misc/dimension_card": {
+    "criteria": {
+      "has_item": "2025-01-07 01:20:22 +0000"
     },
     "done": true
   },
@@ -20239,6 +20251,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-01-07 01:20:57 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-01-06 23:38:29 +0000"
@@ -20386,6 +20404,12 @@
   "productivebees:recipes/misc/stonecutter/palm_canvas_expansion_box": {
     "criteria": {
       "has_box": "2025-01-07 00:10:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 01:14:52 +0000"
     },
     "done": true
   },
