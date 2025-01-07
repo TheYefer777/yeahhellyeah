@@ -7663,6 +7663,7 @@
       "minecraft:magma_cube": "2025-01-03 18:57:32 +0000",
       "minecraft:spider": "2025-01-02 17:12:27 +0000",
       "minecraft:creeper": "2025-01-03 02:02:53 +0000",
+      "minecraft:wither": "2025-01-07 00:59:14 +0000",
       "minecraft:phantom": "2025-01-02 00:51:37 +0000",
       "minecraft:zombified_piglin": "2025-01-03 19:00:30 +0000",
       "minecraft:wither_skeleton": "2025-01-02 17:43:15 +0000",
@@ -19739,6 +19740,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/dark_nether_star": {
+    "criteria": {
+      "has_nether_star": "2025-01-07 00:59:15 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/fir_canvas_expansion_box": {
     "criteria": {
       "has_box": "2025-01-07 00:10:12 +0000"
@@ -19790,6 +19797,12 @@
   "productivebees:recipes/misc/stonecutter/umbran_canvas_expansion_box": {
     "criteria": {
       "has_box": "2025-01-07 00:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-01-07 00:59:15 +0000"
     },
     "done": true
   },
@@ -19850,6 +19863,12 @@
   "productivebees:recipes/misc/stonecutter/bamboo_canvas_hive": {
     "criteria": {
       "has_hive": "2025-01-07 00:10:12 +0000"
+    },
+    "done": true
+  },
+  "allthetweaks:recipes/misc/nether_star_block": {
+    "criteria": {
+      "has_nether_star": "2025-01-07 00:59:15 +0000"
     },
     "done": true
   },
@@ -19928,6 +19947,12 @@
   "productivebees:recipes/misc/expansion_boxes/expansion_box_jungle_canvas": {
     "criteria": {
       "has_hive": "2025-01-07 00:10:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 00:56:47 +0000"
     },
     "done": true
   },
@@ -20141,6 +20166,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-01-07 00:58:22 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/hives/advanced_birch_canvas_hive": {
     "criteria": {
       "has_hive": "2025-01-07 00:10:12 +0000"
@@ -20219,6 +20250,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-01-07 00:56:42 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/rosewood_canvas_hive": {
     "criteria": {
       "has_hive": "2025-01-07 00:10:12 +0000"
@@ -20228,6 +20265,12 @@
   "productivebees:recipes/misc/expansion_boxes/expansion_box_dark_oak_canvas": {
     "criteria": {
       "has_hive": "2025-01-07 00:10:12 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/silent_spruce_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2025-01-07 00:56:12 +0000"
     },
     "done": true
   },
@@ -20282,6 +20325,18 @@
   "productivebees:recipes/misc/stonecutter/umbran_canvas_hive": {
     "criteria": {
       "has_hive": "2025-01-07 00:10:12 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/infinity_wand": {
+    "criteria": {
+      "has_item": "2025-01-07 00:59:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 00:59:14 +0000"
     },
     "done": true
   },
