@@ -3466,6 +3466,7 @@
       "cooked_beef": "2025-01-01 00:22:31 +0000",
       "apple": "2025-01-01 01:09:15 +0000",
       "bread": "2025-01-02 00:45:01 +0000",
+      "golden_apple": "2025-01-07 01:11:55 +0000",
       "carrot": "2025-01-02 18:46:56 +0000"
     },
     "done": false
@@ -19800,6 +19801,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 01:09:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-01-07 00:59:15 +0000"
@@ -19854,9 +19861,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-07 01:12:45 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/grimwood_canvas_expansion_box": {
     "criteria": {
       "has_box": "2025-01-07 00:10:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-01-07 01:10:42 +0000"
     },
     "done": true
   },
@@ -19950,6 +19969,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2025-01-07 01:11:53 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-01-07 00:56:47 +0000"
@@ -20016,6 +20041,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-07 01:10:42 +0000"
+    },
+    "done": true
+  },
   "productivebees:recipes/misc/stonecutter/spruce_canvas_hive": {
     "criteria": {
       "has_hive": "2025-01-07 00:10:12 +0000"
@@ -20061,6 +20092,12 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-01-07 00:51:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-01-07 01:06:33 +0000"
     },
     "done": true
   },
@@ -20229,6 +20266,12 @@
   "silentgear:the_end": {
     "criteria": {
       "entered_the_end": "2025-01-07 00:51:13 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2025-01-07 01:11:53 +0000"
     },
     "done": true
   },

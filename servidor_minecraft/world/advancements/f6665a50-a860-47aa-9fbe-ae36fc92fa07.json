@@ -18474,6 +18474,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/dark_nether_star": {
+    "criteria": {
+      "has_nether_star": "2025-01-07 01:11:47 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/crimson_cloth": {
     "criteria": {
       "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
@@ -18486,9 +18492,33 @@
     },
     "done": true
   },
+  "forcecraft:recipes/misc/magnet_glove": {
+    "criteria": {
+      "has_nether_star": "2025-01-07 01:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-01-07 01:11:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-07 01:09:57 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2025-01-07 01:02:55 +0000"
+    },
+    "done": true
+  },
+  "allthetweaks:recipes/misc/nether_star_block": {
+    "criteria": {
+      "has_nether_star": "2025-01-07 01:11:47 +0000"
     },
     "done": true
   },
@@ -18612,6 +18642,12 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-07 01:10:56 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/ender_staff": {
     "criteria": {
       "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
@@ -18720,6 +18756,12 @@
     },
     "done": true
   },
+  "constructionwand:recipes/tools/infinity_wand": {
+    "criteria": {
+      "has_item": "2025-01-07 01:11:47 +0000"
+    },
+    "done": true
+  },
   "utilitarian:recipes/misc/utility/birch_logs_to_trapdoors": {
     "criteria": {
       "has_log": "2025-01-06 23:44:55 +0000"
@@ -18735,6 +18777,12 @@
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2025-01-07 01:02:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 01:13:23 +0000"
     },
     "done": true
   },
@@ -18789,6 +18837,12 @@
   "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-07 01:13:37 +0000"
     },
     "done": true
   },
