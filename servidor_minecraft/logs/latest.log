@@ -2152,3 +2152,5 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [06Jan2025 23:51:33.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Wycktreckz> na epico
 [06Jan2025 23:51:35.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Wycktreckz> correle
 [06Jan2025 23:51:37.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Wycktreckz> me avisas
+[06Jan2025 23:58:35.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wycktreckz moved too quickly! 0.0,399.0055436384173,0.0
+[06Jan2025 23:59:16.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4133, y=66, z=-28} BlockPos{x=4099, y=68, z=3}
