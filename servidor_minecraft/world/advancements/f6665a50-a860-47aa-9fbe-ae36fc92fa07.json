@@ -18444,21 +18444,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/smart_chute": {
-    "criteria": {
-      "has_item": "2025-01-07 00:18:07 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-06 23:44:55 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/alkahestry_altar": {
-    "criteria": {
-      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
     },
     "done": true
   },
@@ -18471,54 +18459,6 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-01-06 23:44:55 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/dark_nether_star": {
-    "criteria": {
-      "has_nether_star": "2025-01-07 01:11:47 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/crimson_cloth": {
-    "criteria": {
-      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/raw_tin_from_block": {
-    "criteria": {
-      "has_item": "2025-01-07 00:52:16 +0000"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/misc/magnet_glove": {
-    "criteria": {
-      "has_nether_star": "2025-01-07 01:11:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-01-07 01:11:47 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2025-01-07 01:09:57 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_voodoo_poppet": {
-    "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-01-07 01:02:55 +0000"
-    },
-    "done": true
-  },
-  "allthetweaks:recipes/misc/nether_star_block": {
-    "criteria": {
-      "has_nether_star": "2025-01-07 01:11:47 +0000"
     },
     "done": true
   },
@@ -18552,12 +18492,6 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/uncrafting/ender_pearl": {
-    "criteria": {
-      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
-    },
-    "done": true
-  },
   "utilitarian:recipes/misc/utility/birch_logs_to_doors": {
     "criteria": {
       "has_log": "2025-01-06 23:44:55 +0000"
@@ -18570,21 +18504,9 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/fortune_coin": {
-    "criteria": {
-      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-06 23:44:55 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2025-01-07 01:02:55 +0000"
     },
     "done": true
   },
@@ -18594,99 +18516,9 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/mob_charm_fragments/enderman": {
-    "criteria": {
-      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
-    },
-    "done": true
-  },
-  "create:contraption_actors": {
-    "criteria": {
-      "0": "2025-01-07 00:15:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-01-07 00:51:11 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-06 23:44:55 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/wraith_node": {
-    "criteria": {
-      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
-    },
-    "done": true
-  },
-  "create:portable_storage_interface": {
-    "criteria": {
-      "0": "2025-01-07 00:26:10 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/angelic_feather": {
-    "criteria": {
-      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/tin_dust_from_raw": {
-    "criteria": {
-      "has_raw_tin": "2025-01-07 00:52:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
-    "criteria": {
-      "has_item": "2025-01-07 01:10:56 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/ender_staff": {
-    "criteria": {
-      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/tin_dust_from_raw_block": {
-    "criteria": {
-      "has_raw_tin_block": "2025-01-07 00:52:16 +0000"
-    },
-    "done": true
-  },
-  "create:funnel": {
-    "criteria": {
-      "0": "2025-01-07 00:36:04 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/void_tear": {
-    "criteria": {
-      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/raw_tin_block": {
-    "criteria": {
-      "has_raw_TagKey[minecraft:item / forge:raw_materials/tin]": "2025-01-07 00:52:04 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/tin_ingot_from_raw": {
-    "criteria": {
-      "has_item": "2025-01-07 00:52:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-01-07 01:02:11 +0000"
     },
     "done": true
   },
@@ -18696,33 +18528,15 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-01-07 00:51:11 +0000"
-    },
-    "done": true
-  },
   "utilitarian:recipes/misc/utility/birch_logs_to_boats": {
     "criteria": {
       "has_log": "2025-01-06 23:44:55 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-01-07 01:02:55 +0000"
-    },
-    "done": true
-  },
   "utilitarian:recipes/misc/utility/birch_logs_to_stairs": {
     "criteria": {
       "has_log": "2025-01-06 23:44:55 +0000"
-    },
-    "done": true
-  },
-  "silentgear:the_end": {
-    "criteria": {
-      "entered_the_end": "2025-01-07 00:51:11 +0000"
     },
     "done": true
   },
@@ -18738,27 +18552,9 @@
     },
     "done": true
   },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2025-01-07 00:56:21 +0000"
-    },
-    "done": true
-  },
-  "create:super_glue": {
-    "criteria": {
-      "0": "2025-01-07 00:07:09 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-06 23:44:55 +0000"
-    },
-    "done": true
-  },
-  "constructionwand:recipes/tools/infinity_wand": {
-    "criteria": {
-      "has_item": "2025-01-07 01:11:47 +0000"
     },
     "done": true
   },
@@ -18774,18 +18570,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/strong_undead": {
-    "criteria": {
-      "coded_trigger": "2025-01-07 01:02:55 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mutual_aid": {
-    "criteria": {
-      "coded_trigger": "2025-01-07 01:13:23 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/birch": {
     "criteria": {
       "has_wood": "2025-01-06 23:44:55 +0000"
@@ -18795,18 +18579,6 @@
   "mcwtrpdoors:recipes/print_paper": {
     "criteria": {
       "has_logs": "2025-01-06 23:44:55 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/magicbane": {
-    "criteria": {
-      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2025-01-07 00:55:19 +0000"
     },
     "done": true
   },
@@ -18822,12 +18594,6 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
-    "criteria": {
-      "has_item": "2025-01-07 00:52:04 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-06 23:44:55 +0000"
@@ -18840,12 +18606,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_purification": {
-    "criteria": {
-      "has_magic_scroll": "2025-01-07 01:13:37 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-06 23:44:55 +0000"
@@ -18855,6 +18615,246 @@
   "exdeorum:recipes/misc/birch_compressed_sieve": {
     "criteria": {
       "has_item": "2025-01-06 23:44:55 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-01-07 00:07:09 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-01-07 00:15:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-01-07 00:18:07 +0000"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2025-01-07 00:26:10 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-01-07 00:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-07 00:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-07 00:51:11 +0000"
+    },
+    "done": true
+  },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2025-01-07 00:51:11 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/tin_dust_from_raw": {
+    "criteria": {
+      "has_raw_tin": "2025-01-07 00:52:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_tin_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/tin]": "2025-01-07 00:52:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-01-07 00:52:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-01-07 00:52:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_tin_from_block": {
+    "criteria": {
+      "has_item": "2025-01-07 00:52:16 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/tin_dust_from_raw_block": {
+    "criteria": {
+      "has_raw_tin_block": "2025-01-07 00:52:16 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/alkahestry_altar": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/crimson_cloth": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/ender_pearl": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/fortune_coin": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/enderman": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/wraith_node": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/angelic_feather": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/ender_staff": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/void_tear": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/magicbane": {
+    "criteria": {
+      "has_nebulous_heart": "2025-01-07 00:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-01-07 00:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-01-07 00:56:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-01-07 01:02:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-01-07 01:02:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-07 01:02:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-01-07 01:02:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 01:02:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-07 01:09:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-07 01:10:56 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/dark_nether_star": {
+    "criteria": {
+      "has_nether_star": "2025-01-07 01:11:47 +0000"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/misc/magnet_glove": {
+    "criteria": {
+      "has_nether_star": "2025-01-07 01:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-01-07 01:11:47 +0000"
+    },
+    "done": true
+  },
+  "allthetweaks:recipes/misc/nether_star_block": {
+    "criteria": {
+      "has_nether_star": "2025-01-07 01:11:47 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/infinity_wand": {
+    "criteria": {
+      "has_item": "2025-01-07 01:11:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 01:13:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-07 01:13:37 +0000"
     },
     "done": true
   },
